@@ -36,7 +36,7 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 #### Internship
 
 01/20-06/20 
-:   national forensic service (Wonju, Korea)
+:   National Forensic Service (Wonju, Korea)
 
 #### Millitary obligation
 07/16-04/18 
