@@ -37,3 +37,7 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 
 01/20-06/20 
 :   national forensic service (Wonju, Korea)
+
+#### Millitary obligation
+07/16-04/18 
+:   Auxiliary Policeman (Seoul, Korea)
