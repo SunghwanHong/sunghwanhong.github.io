@@ -33,3 +33,7 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 
   **Sunghwan Hong**, Seungryong Kim†
 
+#### Internship
+
+01/20-06/20 
+:   national forensic service (Wonju, Korea)
