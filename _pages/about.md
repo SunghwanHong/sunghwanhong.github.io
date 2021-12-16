@@ -44,4 +44,5 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 :   Auxiliary Policeman (Seoul, Korea)
 
 #### Teaching
-09/21 Samsung Electronics AI Computer Vision Advanced course 
+09/21 
+:   Samsung Electronics AI Computer Vision Advanced course 
