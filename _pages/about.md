@@ -20,7 +20,7 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 :   B.S. in Computer Science and Engineering - Korea University, Seoul, Korea
 
 #### Publication
-
+ 
 * [CATs: Cost Aggregation Transformers for Visual Correspondence](https://arxiv.org/abs/2106.03090) _NeurIPS 2021_
 
   Seokju Cho\*, **Sunghwan Hong**\*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, Seungryong Kim† (\*equal contribution)
