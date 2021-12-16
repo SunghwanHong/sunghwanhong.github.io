@@ -15,13 +15,14 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 #### Education
 03/21-Present Korea University, Seoul, Korea
 :   Integrated M.S./Ph.D. in Computer Science and Engineering
+
 03/15-02/21 Korea University, Seoul, Korea
 :   B.S. in Computer Science and Engineering
 
 #### Publication
 
 * [CATs: Cost Aggregation Transformers for Visual Correspondence](https://arxiv.org/abs/2106.03090) _NeurIPS 2021_
-  Seokju Cho*, **Sunghwan Hong***, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, Seungryong Kim† (*equal contribution)
+  Seokju Cho\*, **Sunghwan Hong**\*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, Seungryong Kim† (*equal contribution)
 * [MOI-Mixer: Improving MLP-Mixer with Multi Order Interactions in Sequential Recommendation](https://arxiv.org/abs/2108.07505) _arxiv preprint 2021_ 
   Hojoon Lee, Dongyoon Hwang, **Sunghwan Hong**, Changyeon Kim, Seungryong Kim, Jaegul Choo
 * [Deep Matching Prior: Test-Time Optimization for Dense Correspondence](https://arxiv.org/abs/2106.03090) _ICCV 2021_
