@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Sunghwan Hong"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sunghwan Hong"
   avatar           : "profile.png"
-  bio              : "Let me stop procrastinating"
+  bio              : "MS/PhD integrated student at Korea University"
   location         : "Seoul"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=ko&user=lBXhOmoAAAAJ"
-  email            :
+  email            : "sung_hwan@korea.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/SunghwanHong"
+  github           : "SunghwanHong"
   google_plus      :
   keybase          :
   instagram        :
