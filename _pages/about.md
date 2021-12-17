@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-### M.S./Ph.D. student in the [CVLAB](https://cvlab.korea.ac.kr/ "cvlab")@ [Korea University](https://info.korea.edu/en_info/index.do "korea")
 
+### M.S./Ph.D. student in the [CVLAB](https://cvlab.korea.ac.kr/ "cvlab")@ [Korea University](https://info.korea.edu/en_info/index.do "korea")
 I started my M.S./Ph.D. under the supervision of Prof. [Seungryong Kim](https://seungryong.github.io/) since 2021. Before joining CVLAB in Korea University, 
 I obtained a barchelor's degree in Computer Science and Engineering at Korea University. My primary research interest is Computer Vision, especially visual correspondence and its applications. 
 
@@ -21,7 +21,7 @@ Integrated M.S./Ph.D. in Computer Science and Engineering - Korea University, Se
 
 #### Publication
  
-* [CATs: Cost Aggregation Transformers for Visual Correspondence](https://arxiv.org/abs/2106.03090) _NeurIPS 2021_
+* [CATs: Cost Aggregation Transformers for Visual Correspondence](https://arxiv.org/abs/2106.02520) _NeurIPS 2021_
 
   Seokju Cho\*, **Sunghwan Hong**\*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, Seungryong Kim† (\*equal contribution)
 
