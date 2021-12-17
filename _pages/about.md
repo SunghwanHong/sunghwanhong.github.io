@@ -14,10 +14,14 @@ I started my M.S./Ph.D. under the supervision of Prof. [Seungryong Kim](https://
 I obtained a barchelor's degree in Computer Science and Engineering at Korea University. My primary research interest is Computer Vision, especially visual correspondence and its applications. 
 
 #### Education
-Integrated M.S./Ph.D. in Computer Science and Engineering - Korea University, Seoul, Korea    _03/21-Present_ 
+* Integrated M.S./Ph.D. in Computer Science and Engineering - Korea University, Seoul, Korea    
+
+  _03/21-Present_ 
 
 
-:   B.S. in Computer Science and Engineering - Korea University, Seoul, Korea _03/15-02/21_
+* B.S. in Computer Science and Engineering - Korea University, Seoul, Korea 
+
+  _03/15-02/21_
 
 #### Publication
  
