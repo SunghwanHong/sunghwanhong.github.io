@@ -41,6 +41,7 @@ Integrated M.S./Ph.D. in Computer Science and Engineering - Korea University, Se
 
 #### Millitary obligation
 * Auxiliary Policeman (Seoul, Korea) 
+
   _(07/16-04/18)_
 
 
