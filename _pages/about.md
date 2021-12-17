@@ -14,11 +14,10 @@ I started my M.S./Ph.D. under the supervision of Prof. [Seungryong Kim](https://
 I obtained a barchelor's degree in Computer Science and Engineering at Korea University. My primary research interest is Computer Vision, especially visual correspondence and its applications. 
 
 #### Education
-03/21-Present 
-:   Integrated M.S./Ph.D. in Computer Science and Engineering - Korea University, Seoul, Korea
+Integrated M.S./Ph.D. in Computer Science and Engineering - Korea University, Seoul, Korea    _03/21-Present_ 
 
-03/15-02/21 
-:   B.S. in Computer Science and Engineering - Korea University, Seoul, Korea
+
+:   B.S. in Computer Science and Engineering - Korea University, Seoul, Korea _03/15-02/21_
 
 #### Publication
  
@@ -36,13 +35,12 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 
 #### Internship
 
-01/20-06/20 
-:   National Forensic Service (Wonju, Korea)
+* National Forensic Service (Wonju, Korea) _01/20-06/20_
+  _Research assistant_
 
 #### Millitary obligation
-07/16-04/18 
-:   Auxiliary Policeman (Seoul, Korea)
+* Auxiliary Policeman (Seoul, Korea) _07/16-04/18_
 
-#### Teaching
-09/21 
-:   Samsung Electronics AI Computer Vision Advanced course 
+#### Teaching Experience 
+* Samsung Electronics AI Computer Vision Advanced course _09/21_
+  _Teaching assistant_ 
