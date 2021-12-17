@@ -52,5 +52,5 @@ Integrated M.S./Ph.D. in Computer Science and Engineering - Korea University, Se
 #### Language skills
 * Korean (native)
 * English (fluent)
-* Thai (conversational)
 * Japanese (proficient)
+* Thai (conversational)
