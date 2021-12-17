@@ -44,3 +44,9 @@ Integrated M.S./Ph.D. in Computer Science and Engineering - Korea University, Se
 #### Teaching Experience 
 * Samsung Electronics AI Computer Vision Advanced course _09/21_
   _Teaching assistant_ 
+
+#### Language skills
+* Korean (native)
+* English (fluent)
+* Thai (conversational)
+* Japanese (proficient)
