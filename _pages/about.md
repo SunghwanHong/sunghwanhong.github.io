@@ -35,15 +35,19 @@ Integrated M.S./Ph.D. in Computer Science and Engineering - Korea University, Se
 
 #### Internship
 
-* National Forensic Service (Wonju, Korea) _01/20-06/20_
-  _Research assistant_
+* National Forensic Service (Wonju, Korea) 
+
+  _Research assistant_ _(01/20-06/20)_
 
 #### Millitary obligation
-* Auxiliary Policeman (Seoul, Korea) _07/16-04/18_
+* Auxiliary Policeman (Seoul, Korea) 
+  _(07/16-04/18)_
+
 
 #### Teaching Experience 
-* Samsung Electronics AI Computer Vision Advanced course _09/21_
-  _Teaching assistant_ 
+* Samsung Electronics AI Computer Vision Advanced course 
+
+  _Teaching assistant_ _(09/21)_
 
 #### Language skills
 * Korean (native)
