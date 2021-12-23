@@ -24,16 +24,19 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
   _03/15-02/21_
 
 #### Publication
+* Cost Aggregation Is All You Need for Few-Shot Segmentation _arxiv preprint 2021_ [arXiv](https://arxiv.org/abs/2112.11685)[Project Page](https://seokju-cho.github.io/VAT/)[Code](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer)
+
+  **Sunghwan Hong**\*, Seokju Cho\*, Jisu Nam, Seungryong Kim† (\*equal contribution)
  
-* [CATs: Cost Aggregation Transformers for Visual Correspondence](https://arxiv.org/abs/2106.02520) _NeurIPS 2021_
+* CATs: Cost Aggregation Transformers for Visual Correspondence _NeurIPS 2021_ [arXiv](https://arxiv.org/abs/2106.02520)[Project Page](https://sunghwanhong.github.io/CATs/)[Code](https://github.com/SunghwanHong/Cost-Aggregation-transformers)
 
   Seokju Cho\*, **Sunghwan Hong**\*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, Seungryong Kim† (\*equal contribution)
 
-* [MOI-Mixer: Improving MLP-Mixer with Multi Order Interactions in Sequential Recommendation](https://arxiv.org/abs/2108.07505) _arxiv preprint 2021_ 
+* MOI-Mixer: Improving MLP-Mixer with Multi Order Interactions in Sequential Recommendation _arxiv preprint 2021_ [arXiv](https://arxiv.org/abs/2108.07505)
 
   Hojoon Lee, Dongyoon Hwang, **Sunghwan Hong**, Changyeon Kim, Seungryong Kim, Jaegul Choo
 
-* [Deep Matching Prior: Test-Time Optimization for Dense Correspondence](https://arxiv.org/abs/2106.03090) _ICCV 2021_
+* Deep Matching Prior: Test-Time Optimization for Dense Correspondence _ICCV 2021_ [arXiv](https://arxiv.org/abs/2106.03090)[Project Page](https://sunghwanhong.github.io/DMP/)
 
   **Sunghwan Hong**, Seungryong Kim†
 
