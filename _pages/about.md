@@ -24,6 +24,10 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
   _03/15-02/21_
 
 #### Publication
+* CATs++: Boosting Cost Aggregation with Convolutions and Transformers _under review_ [[arXiv]](https://arxiv.org/abs/2202.06817)  [[Code]](https://github.com/SunghwanHong/Cost-Aggregation-transformers)
+
+  **Sunghwan Hong**\*, Seokju Cho\*, Jisu Nam, Seungryong Kim† (\*equal contribution)
+
 * Cost Aggregation Is All You Need for Few-Shot Segmentation _arxiv preprint 2021_ [[arXiv]](https://arxiv.org/abs/2112.11685) [[Project Page]](https://seokju-cho.github.io/VAT/) [[Code]](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer)
 
   **Sunghwan Hong**\*, Seokju Cho\*, Jisu Nam, Seungryong Kim† (\*equal contribution)
@@ -53,6 +57,10 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 
 
 #### Teaching Experience 
+* LG Electronics AI Computer Vision Advanced course 
+
+  _Teaching assistant_ _(02/22)_
+  
 * Samsung Electronics AI Computer Vision Advanced course 
 
   _Teaching assistant_ _(09/21)_
