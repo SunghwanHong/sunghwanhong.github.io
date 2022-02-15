@@ -24,15 +24,15 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
   _03/15-02/21_
 
 #### Publication
-* CATs++: Boosting Cost Aggregation with Convolutions and Transformers (_under review_) [[arXiv]](https://arxiv.org/abs/2202.06817)  [[Code]](https://github.com/SunghwanHong/Cost-Aggregation-transformers)
+* CATs++: Boosting Cost Aggregation with Convolutions and Transformers _under review_ [[arXiv]](https://arxiv.org/abs/2202.06817)  [[Code]](https://github.com/SunghwanHong/Cost-Aggregation-transformers)
 
   Seokju Cho\*, **Sunghwan Hong**\*, Seungryong Kim† (\*equal contribution)
 
-* Cost Aggregation Is All You Need for Few-Shot Segmentation (_arxiv preprint 2021_) [[arXiv]](https://arxiv.org/abs/2112.11685) [[Project Page]](https://seokju-cho.github.io/VAT/) [[Code]](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer)
+* Cost Aggregation Is All You Need for Few-Shot Segmentation _arxiv preprint 2021_ [[arXiv]](https://arxiv.org/abs/2112.11685) [[Project Page]](https://seokju-cho.github.io/VAT/) [[Code]](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer)
 
   **Sunghwan Hong**\*, Seokju Cho\*, Jisu Nam, Seungryong Kim† (\*equal contribution)
  
-* CATs: Cost Aggregation Transformers for Visual Correspondence (_NeurIPS 2021_) [[arXiv]](https://arxiv.org/abs/2106.02520) [[Project Page]](https://sunghwanhong.github.io/CATs/) [[Code]](https://github.com/SunghwanHong/Cost-Aggregation-transformers)
+* CATs: Cost Aggregation Transformers for Visual Correspondence _NeurIPS 2021_ [[arXiv]](https://arxiv.org/abs/2106.02520) [[Project Page]](https://sunghwanhong.github.io/CATs/) [[Code]](https://github.com/SunghwanHong/Cost-Aggregation-transformers)
 
   Seokju Cho\*, **Sunghwan Hong**\*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, Seungryong Kim† (\*equal contribution)
 
@@ -40,7 +40,7 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 
   Hojoon Lee, Dongyoon Hwang, **Sunghwan Hong**, Changyeon Kim, Seungryong Kim, Jaegul Choo
 
-* Deep Matching Prior: Test-Time Optimization for Dense Correspondence (_ICCV 2021_) [[arXiv]](https://arxiv.org/abs/2106.03090) [[Project Page]](https://sunghwanhong.github.io/DMP/)
+* Deep Matching Prior: Test-Time Optimization for Dense Correspondence _ICCV 2021_ [[arXiv]](https://arxiv.org/abs/2106.03090) [[Project Page]](https://sunghwanhong.github.io/DMP/)
 
   **Sunghwan Hong**, Seungryong Kim†
 
