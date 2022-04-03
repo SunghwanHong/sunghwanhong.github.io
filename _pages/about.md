@@ -65,6 +65,10 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 
   _Teaching assistant_ _(09/21)_
 
+#### Awards
+
+* BK21 Future Talent Fellowship (BK21 미래인재 펠로우십)
+
 #### Language skills
 * Korean (native)
 * English (fluent)
