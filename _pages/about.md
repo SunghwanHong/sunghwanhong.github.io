@@ -28,7 +28,7 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 
   Seokju Cho\*, **Sunghwan Hong**\*, Seungryong Kim† (\*equal contribution)
 
-* Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation _ECCV 2022_ [[arXiv]](https://arxiv.org/abs/2112.11685) [[Project Page]](https://seokju-cho.github.io/VAT/) [[Code]](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer)
+* Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation _ECCV 2022_ [[arXiv]](https://arxiv.org/abs/2207.10866) [[Project Page]](https://seokju-cho.github.io/VAT/) [[Code]](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer)
 
   **Sunghwan Hong**\*, Seokju Cho\*, Jisu Nam, Stephen Lin, Seungryong Kim† (\*equal contribution)
  
