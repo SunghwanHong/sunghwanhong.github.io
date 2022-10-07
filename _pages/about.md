@@ -24,6 +24,10 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
   _03/15-02/21_
 
 #### Publication
+* Neural Matching Fields: Implicit Representation of Matching Fields for Visual Correspondence _NeurIPS 2022_ [[arXiv]]([https://arxiv.org/abs/2209.08742](https://arxiv.org/abs/2210.02689)) [[Project Page]](https://ku-cvlab.github.io/NeMF/) [[Code]](https://github.com/KU-CVLAB/NeMF/)
+
+  **Sunghwan Hong**, Jisu Nam, Seokju Cho, Susung Hong, Sangryul Jeon, Dongbo Min, Seungryong Kim†
+  
 * Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence _arxiv preprint 2022_ [[arXiv]](https://arxiv.org/abs/2209.08742)
 
   **Sunghwan Hong**\*, Seokju Cho\*, Seungryong Kim†,  Stephen Lin (\*equal contribution)
