@@ -54,6 +54,11 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 
 #### Internship
 
+* Microsoft Research Asia (Beijing, China) 
+
+  _Research Intern_ _(10/22-04/23)_
+
+
 * National Forensic Service (Wonju, Korea) 
 
   _Research assistant_ _(01/20-06/20)_
