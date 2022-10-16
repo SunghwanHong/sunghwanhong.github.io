@@ -24,6 +24,10 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
   _03/15-02/21_
 
 #### Publication
+* CATs++: Boosting Cost Aggregation with Convolutions and Transformers _TPAMI_ [[arXiv]](https://arxiv.org/abs/2202.06817)  [[Code]](https://github.com/SunghwanHong/Cost-Aggregation-transformers)
+
+  Seokju Cho\*, **Sunghwan Hong**\*, Seungryong Kim† (\*equal contribution)
+
 * Neural Matching Fields: Implicit Representation of Matching Fields for Visual Correspondence _NeurIPS 2022_ [[arXiv]]([https://arxiv.org/abs/2209.08742](https://arxiv.org/abs/2210.02689)) [[Project Page]](https://ku-cvlab.github.io/NeMF/) [[Code]](https://github.com/KU-CVLAB/NeMF/)
 
   **Sunghwan Hong**, Jisu Nam, Seokju Cho, Susung Hong, Sangryul Jeon, Dongbo Min, Seungryong Kim†
@@ -32,9 +36,6 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 
   **Sunghwan Hong**\*, Seokju Cho\*, Seungryong Kim†,  Stephen Lin (\*equal contribution)
 
-* CATs++: Boosting Cost Aggregation with Convolutions and Transformers _under review_ [[arXiv]](https://arxiv.org/abs/2202.06817)  [[Code]](https://github.com/SunghwanHong/Cost-Aggregation-transformers)
-
-  Seokju Cho\*, **Sunghwan Hong**\*, Seungryong Kim† (\*equal contribution)
 
 * Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation _ECCV 2022_ [[arXiv]](https://arxiv.org/abs/2207.10866) [[Project Page]](https://seokju-cho.github.io/VAT/) [[Code]](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer)
 
