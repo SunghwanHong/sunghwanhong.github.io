@@ -24,7 +24,7 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
   _03/15-02/21_
 
 #### Publication
-* CATs++: Boosting Cost Aggregation with Convolutions and Transformers _TPAMI (TBA)_ [[arXiv]](https://arxiv.org/abs/2202.06817) [[Project Page]](https://ku-cvlab.github.io/CATs-PlusPlus-Project-Page/) [[Code]](https://github.com/KU-CVLAB/CATs-PlusPlus)
+* CATs++: Boosting Cost Aggregation with Convolutions and Transformers _TPAMI_ [[arXiv]](https://arxiv.org/abs/2202.06817) [[Project Page]](https://ku-cvlab.github.io/CATs-PlusPlus-Project-Page/) [[Code]](https://github.com/KU-CVLAB/CATs-PlusPlus)
 
   Seokju Cho\*, **Sunghwan Hong**\*, Seungryong Kim† (\*equal contribution)
 
