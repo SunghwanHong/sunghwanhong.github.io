@@ -85,6 +85,7 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 
 #### Awards
 
+* Google PhD Fellowship (2023), Machine Perception, Speech Technology, and Computer Vision
 * BK21 Future Talent Fellowship (BK21 미래인재 펠로우십)
 
 #### Language skills
