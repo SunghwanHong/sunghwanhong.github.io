@@ -24,6 +24,10 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
   _03/15-02/21_
 
 #### Publication
+* Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs _arXiv_ [[arXiv]](https://arxiv.org/abs/2312.07246) [[Project Page]](https://ku-cvlab.github.io/CoPoNeRF/) 
+
+  **Sunghwan Hong**, Jaewoo Jung, Heeseong Shin, Jiaolong Yang, Seungryong Kim, Chong Luo
+
 * CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation _arXiv_ [[arXiv]](https://arxiv.org/abs/2303.11797) [[Project Page]](https://ku-cvlab.github.io/CAT-Seg/) [[Code]](https://github.com/KU-CVLAB/CAT-Seg)
 
    Seokju Cho\*, Heeseong Shin\*, **Sunghwan Hong**, Seungjun An, Seungjun Lee, Anurag Arnab, Paul Hongsuck Seo, Seungryong Kim†
