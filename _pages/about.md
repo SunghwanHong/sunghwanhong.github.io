@@ -27,6 +27,10 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 * Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs _arXiv_ [[arXiv]](https://arxiv.org/abs/2312.07246) [[Project Page]](https://ku-cvlab.github.io/CoPoNeRF/) 
 
   **Sunghwan Hong**, Jaewoo Jung, Heeseong Shin, Jiaolong Yang, Seungryong Kim, Chong Luo
+  
+* Unifying Feature and Cost Aggregation with Transformers for Dense Correspondence _ICLR 2024_ (TBD)
+
+  **Sunghwan Hong**\*, Seokju Cho\*, Seungryong Kim,  Stephen Lin (\*equal contribution)
 
 * CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation _arXiv_ [[arXiv]](https://arxiv.org/abs/2303.11797) [[Project Page]](https://ku-cvlab.github.io/CAT-Seg/) [[Code]](https://github.com/KU-CVLAB/CAT-Seg)
 
@@ -39,10 +43,6 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 * Neural Matching Fields: Implicit Representation of Matching Fields for Visual Correspondence _NeurIPS 2022_ [[arXiv]]([https://arxiv.org/abs/2209.08742](https://arxiv.org/abs/2210.02689)) [[Project Page]](https://ku-cvlab.github.io/NeMF/) [[Code]](https://github.com/KU-CVLAB/NeMF/)
 
   **Sunghwan Hong**, Jisu Nam, Seokju Cho, Susung Hong, Sangryul Jeon, Dongbo Min, Seungryong Kim†
-  
-* Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence _arxiv preprint 2022_ [[arXiv]](https://arxiv.org/abs/2209.08742)
-
-  **Sunghwan Hong**\*, Seokju Cho\*, Seungryong Kim†,  Stephen Lin (\*equal contribution)
 
 
 * Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation _ECCV 2022_ [[arXiv]](https://arxiv.org/abs/2207.10866) [[Project Page]](https://seokju-cho.github.io/VAT/) [[Code]](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer)
@@ -89,6 +89,7 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 
 #### Awards
 
+* 36th Workshop on Image Processing and Image Understanding (Bronze award)
 * Google PhD Fellowship (2023), Machine Perception, Speech Technology, and Computer Vision
 * BK21 Future Talent Fellowship (BK21 미래인재 펠로우십)
 
