@@ -28,7 +28,7 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
 
   **Sunghwan Hong**, Jaewoo Jung, Heeseong Shin, Jiaolong Yang, Seungryong Kim, Chong Luo
   
-* Unifying Feature and Cost Aggregation with Transformers for Dense Correspondence _ICLR 2024_ (TBD)
+* Unifying Feature and Cost Aggregation with Transformers for Dense Correspondence _ICLR 2024_ 
 
   **Sunghwan Hong**\*, Seokju Cho\*, Seungryong Kim,  Stephen Lin (\*equal contribution)
 
