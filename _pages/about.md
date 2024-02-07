@@ -24,13 +24,6 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
   _03/15-02/21_
 
 #### Publication
-* Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs _arXiv_ [[arXiv]](https://arxiv.org/abs/2312.07246) [[Project Page]](https://ku-cvlab.github.io/CoPoNeRF/) 
-
-  **Sunghwan Hong**, Jaewoo Jung, Heeseong Shin, Jiaolong Yang, Seungryong Kim, Chong Luo
-  
-* Unifying Feature and Cost Aggregation with Transformers for Dense Correspondence _ICLR 2024_ 
-
-  **Sunghwan Hong**\*, Seokju Cho\*, Seungryong Kim,  Stephen Lin (\*equal contribution)
 
 * CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation _arXiv_ [[arXiv]](https://arxiv.org/abs/2303.11797) [[Project Page]](https://ku-cvlab.github.io/CAT-Seg/) [[Code]](https://github.com/KU-CVLAB/CAT-Seg)
 
@@ -86,8 +79,6 @@ I obtained a barchelor's degree in Computer Science and Engineering at Korea Uni
   _Teaching assistant_ _(09/21)_
 
 #### Awards
-
-* 36th Workshop on Image Processing and Image Understanding (Bronze award)
 * Google PhD Fellowship (2023), Machine Perception, Speech Technology, and Computer Vision
 * BK21 Future Talent Fellowship (BK21 미래인재 펠로우십)
 
