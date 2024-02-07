@@ -1,0 +1,59 @@
+papers:
+  - title: "Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs"
+    year: "2024"
+    authors: "<b><u>Sunghwan Hong</u></b>, Jaewoo Jung, Heeseong Shin, Jiaolong Yang, Seungryong Kim, Chong Luo"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/pdf/2312.07246"
+    selected: y
+
+  - title: "CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation"
+    authors: "Seokju Cho*, Heeseong Shin*, <b><u>Sunghwan Hong</u></b>, Anurag Arnab, Paul Hongseok Seo, Seungryong Kim"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2303.11797"
+    code: "https://ku-cvlab.github.io/CAT-Seg/"
+    selected: y
+    
+  - title: "Unifying Feature and Cost Aggregation with Transformers for Dense Correspondence"
+    authors: "<b><u>Sunghwan Hong</u></b>*, Seokju Cho*, Seungryong Kim, Stephen Lin"
+    venue: "ICLR 2024"
+    selected: y
+    
+  - title: "CATs++: Boosting Cost Aggregation with Convolutions and Transformers"
+    year: "2023"
+    authors: "Seokju Cho*, <b><u>Sunghwan Hong</u></b>*, Seungryong Kim"
+    venue: "TPAMI"
+    paper_pdf: "https://arxiv.org/abs/2202.068177"
+    code: "https://ku-cvlab.github.io/CATs-PlusPlus-Project-Page/"
+    selected: y
+    
+  - title: "Neural Matching Fields: Implicit Representation of Matching Fields for Visual Correspondence "
+    year: "2022"
+    authors: "<b><u>Sunghwan Hong</u></b>, Jisu Nam, Seokju Cho, Susung Hong, Sangryul Jeon, Dongbo Min, Seungryong Kim"
+    venue: "NeurIPS 2022"
+    paper_pdf: "https://arxiv.org/abs/2210.02689"
+    code: "https://ku-cvlab.github.io/NeMF/"
+    selected: y
+
+  - title: "Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation"
+    authors: "<b><u>Sunghwan Hong</u></b>*, Seokju Cho*, Jisu Nam, Stephen Lin, Seungryong Kim "
+    venue: "ECCV 2022"
+    paper_pdf: "https://arxiv.org/abs/2207.10866"
+    code: "https://seokju-cho.github.io/VAT/"
+    selected: y
+  
+  - title: "CATs: Cost Aggregation Transformers for Visual Correspondence "
+    year: "2021"
+    image: "/assets/publications/2022_emnlp/ropt.png"
+    authors: "Seokju Cho*, <b><u>Sunghwan Hong</u></b>*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, Seungryong Kim"
+    venue: "NeurIPS 2021"
+    paper_pdf: "https://arxiv.org/abs/2106.02520"
+    code: "https://sunghwanhong.github.io/CATs/"
+    selected: y
+
+  - title: "Deep Matching Prior: Test-Time Optimization for Dense Correspondence "
+    image: "/assets/publications/2022_emnlp/ropt.png"
+    authors: "<b><u>Sunghwan Hong</u></b>, Seungryong Kim"
+    venue: "ICCV 2021"
+    paper_pdf: "https://arxiv.org/abs/2106.03090"
+    code: "https://sunghwanhong.github.io/DMP/"
+    selected: y

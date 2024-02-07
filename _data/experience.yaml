@@ -1,0 +1,22 @@
+experiences:  
+- place: "Microsoft Research Asia"
+  time: "Oct 2023 - Apr 2024"
+  title: "Research Intern (Mentors: Chong Luo)"
+  subtitle: "Working on 3D Vision"
+  category: "work"
+
+- place: "Korea University Computer Vision Lab"
+  time: "Mar. 2021 - Present"
+  title: "M.S./Ph.D Student (Advisor: Seungryong Kim)"
+  category: "school"
+
+- place: "korea national forensic service"
+  time: "Jan. 2020 - June. 2020"
+  title: "Research Assistant"
+  subtitle: "Worked on a national project for AI-based forensic analysis"
+  category: "work"
+
+- place: "Korea University"
+  time: "Mar. 2015 - Feb. 2021"
+  title: "B.S. in Computer Science"
+  category: "school"
