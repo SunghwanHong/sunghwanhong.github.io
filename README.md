@@ -1,4 +1,4 @@
-# Joel Jang's Website (based on Junmo Kang's template)
+# Sunghwan's Website (based on Junmo Kang's template)
 
 ## Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
