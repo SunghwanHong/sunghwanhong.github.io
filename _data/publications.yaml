@@ -2,14 +2,14 @@ papers:
   - title: "Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs"
     year: "2024"
     authors: "<b><u>Sunghwan Hong</u></b>, Jaewoo Jung, Heeseong Shin, Jiaolong Yang, Seungryong Kim, Chong Luo"
-    venue: "CVPR 2024"
+    venue: "CVPR 2024 (Highlight)"
     paper_pdf: "https://arxiv.org/pdf/2312.07246"
     code: "https://ku-cvlab.github.io/CoPoNeRF/"
     selected: y
 
   - title: "CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation"
     authors: "Seokju Cho*, Heeseong Shin*, <b><u>Sunghwan Hong</u></b>, Anurag Arnab, Paul Hongseok Seo, Seungryong Kim"
-    venue: "CVPR 2024"
+    venue: "CVPR 2024 (Highlight)"
     paper_pdf: "https://arxiv.org/abs/2303.11797"
     code: "https://ku-cvlab.github.io/CAT-Seg/"
     selected: y
