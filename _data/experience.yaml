@@ -1,4 +1,10 @@
 experiences:  
+- place: "ETH-Zurich CVG Group"
+  time: "Sep 2024 - Feb 2025"
+  title: "Visiting Researcher"
+  subtitle: "Working on Robotics/Vision Foundation Model"
+  category: "work"
+
 - place: "Microsoft Research Asia"
   time: "Oct 2023 - Apr 2024"
   title: "Research Intern (Mentors: Chong Luo)"
