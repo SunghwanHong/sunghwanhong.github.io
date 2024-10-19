@@ -6,8 +6,8 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2409.19846"
     code: "https://cvlab-kaist.github.io/PixelCLIP/"
     selected: y
+    
   - title: "Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs"
-    year: "2024"
     authors: "<b><u>Sunghwan Hong</u></b>, Jaewoo Jung, Heeseong Shin, Jiaolong Yang, Seungryong Kim, Chong Luo"
     venue: "CVPR 2024 (Highlight)"
     paper_pdf: "https://arxiv.org/pdf/2312.07246"
