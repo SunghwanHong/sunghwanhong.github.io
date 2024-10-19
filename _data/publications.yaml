@@ -1,4 +1,11 @@
 papers:
+  - title: "Towards Open-Vocabulary Semantic Segmentation Without Semantic Labelss"
+    year: "2024"
+    authors: "Heeseong Shin, Chaehyon Kim, <b><u>Sunghwan Hong</u></b>, Seokju Cho, Anurag Arnab, Paul Hongsuck Seo, Seungryong Kim"
+    venue: "NeurIPS 2024"
+    paper_pdf: "https://arxiv.org/abs/2409.19846"
+    code: "https://cvlab-kaist.github.io/PixelCLIP/"
+    selected: y
   - title: "Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs"
     year: "2024"
     authors: "<b><u>Sunghwan Hong</u></b>, Jaewoo Jung, Heeseong Shin, Jiaolong Yang, Seungryong Kim, Chong Luo"
@@ -17,6 +24,7 @@ papers:
   - title: "Unifying Feature and Cost Aggregation with Transformers for Dense Correspondence"
     authors: "<b><u>Sunghwan Hong</u></b>*, Seokju Cho*, Seungryong Kim, Stephen Lin"
     venue: "ICLR 2024"
+    paper_pdf: "https://arxiv.org/abs/2403.11120"
     selected: y
     
   - title: "CATs++: Boosting Cost Aggregation with Convolutions and Transformers"
