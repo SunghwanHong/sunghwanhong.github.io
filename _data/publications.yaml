@@ -1,6 +1,13 @@
 papers:
-  - title: "Towards Open-Vocabulary Semantic Segmentation Without Semantic Labelss"
+  - title: "PF3plat : Pose-Free Feed-Forward 3D Gaussian Splatting"
     year: "2024"
+    authors: "<b><u>Sunghwan Hong*</u></b>, Jaewoo Jung*, Heeseong Shin, Jisang Han, Jiaolong Yang**, Chong Luo**, Seungryong Kim**"
+    venue: "Arxiv"
+    paper_pdf: "https://arxiv.org/pdf/2410.22128"
+    code: "https://cvlab-kaist.github.io/PF3plat/"
+    selected: y
+
+  - title: "Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels"
     authors: "Heeseong Shin, Chaehyon Kim, <b><u>Sunghwan Hong</u></b>, Seokju Cho, Anurag Arnab, Paul Hongsuck Seo, Seungryong Kim"
     venue: "NeurIPS 2024"
     paper_pdf: "https://arxiv.org/abs/2409.19846"
