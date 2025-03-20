@@ -1,4 +1,12 @@
 papers:
+  - title: "Cross-View Completion Models are Zero-shot Correspondence Estimators"
+    year: "2025"
+    authors: "Honggyu An*, Jinhyeon Kim*, Seonghoon Park, Jaewoo Jung, Jisang Han, <b><u>Sunghwan Hong**</u></b>, Seungryong Kim**"
+    venue: "CVPR 2025"
+    paper_pdf: "https://arxiv.org/abs/2412.09072"
+    code: "https://github.com/cvlab-kaist/ZeroCo"
+    selected: y
+    
   - title: "PF3plat : Pose-Free Feed-Forward 3D Gaussian Splatting"
     year: "2024"
     authors: "<b><u>Sunghwan Hong*</u></b>, Jaewoo Jung*, Heeseong Shin, Jisang Han, Jiaolong Yang**, Chong Luo**, Seungryong Kim**"
