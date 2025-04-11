@@ -2,7 +2,7 @@ papers:
   - title: "Cross-View Completion Models are Zero-shot Correspondence Estimators"
     year: "2025"
     authors: "Honggyu An*, Jinhyeon Kim*, Seonghoon Park, Jaewoo Jung, Jisang Han, <b><u>Sunghwan Hong**</u></b>, Seungryong Kim**"
-    venue: "CVPR 2025"
+    venue: "CVPR 2025 (Highlight)"
     paper_pdf: "https://arxiv.org/abs/2412.09072"
     code: "https://github.com/cvlab-kaist/ZeroCo"
     selected: y
