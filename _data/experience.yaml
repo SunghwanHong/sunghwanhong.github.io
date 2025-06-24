@@ -1,8 +1,14 @@
 experiences:  
-- place: "KAIST CVLAB"
-  time: "Mar 2025 - June 2025"
+- place: "ETH AI Center"
+  time: "July 2025 - Present"
   title: "Postdoctoral Researcher"
   category: "work"
+
+- place: "KAIST CVLAB"
+  time: "Mar. 2025 - June 2025"
+  title: "Postdoctoral Researcher"
+  category: "work"
+  
 - place: "ETH-Zurich CVG Group"
   time: "Sep 2024 - Feb 2025"
   title: "Visiting Researcher"
