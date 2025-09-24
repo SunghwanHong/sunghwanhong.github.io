@@ -1,7 +1,7 @@
 papers:
   - title: "D2USt3R: Enhancing 3D Reconstruction for Dynamic Scenes"
     year: "2025"
-    authors: "Jisang Han*, Honggyu An*, Jaewoo Jung*, Takuya Narihira, Junyoung Seo, Kazumi Fukuda, Chaehyun Kim, <b><u>Sunghwan Hong*</u></b>, Yuki Mitsufuji**, Seungryong Kim**"
+    authors: "Jisang Han*, Honggyu An*, Jaewoo Jung*, Takuya Narihira, Junyoung Seo, Kazumi Fukuda, Chaehyun Kim, <b><u>Sunghwan Hong</u></b>, Yuki Mitsufuji**, Seungryong Kim**"
     venue: "NeurIPS 2025"
     paper_pdf: "https://arxiv.org/pdf/2504.06264"
     code: "https://cvlab-kaist.github.io/DDUSt3R/"
