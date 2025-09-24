@@ -1,6 +1,20 @@
 papers:
-  - title: "PF3plat : Pose-Free Feed-Forward 3D Gaussian Splatting"
+  - title: "D2USt3R: Enhancing 3D Reconstruction for Dynamic Scenes"
     year: "2025"
+    authors: "Jisang Han*, Honggyu An*, Jaewoo Jung*, Takuya Narihira, Junyoung Seo, Kazumi Fukuda, Chaehyun Kim, <b><u>Sunghwan Hong*</u></b>, Yuki Mitsufuji**, Seungryong Kim**"
+    venue: "NeurIPS 2025"
+    paper_pdf: "https://arxiv.org/pdf/2504.06264"
+    code: "https://cvlab-kaist.github.io/DDUSt3R/"
+    selected: y
+    
+  - title: "Seg4Diff: Unveiling Open-Vocabulary Semantic Segmentation in Text-to-Image Diffusion Transformers"
+    authors: "Chaehyun Kim, Heeseong Shin, Eunbeen Hong, Heeji Yoon, Anurag Arnab, Paul Hongsuck Seo, <b><u>Sunghwan Hong**</u></b>, Seungryong Kim**"
+    venue: "NeurIPS 2025"
+    paper_pdf: "https://arxiv.org/abs/2509.18096"
+    code: "https://cvlab-kaist.github.io/Seg4Diff/"
+    selected: y
+    
+  - title: "PF3plat : Pose-Free Feed-Forward 3D Gaussian Splatting"
     authors: "<b><u>Sunghwan Hong*</u></b>, Jaewoo Jung*, Heeseong Shin, Jisang Han, Jiaolong Yang**, Chong Luo**, Seungryong Kim**"
     venue: "ICML 2025"
     paper_pdf: "https://arxiv.org/pdf/2410.22128"
