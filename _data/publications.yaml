@@ -1,11 +1,12 @@
 papers:
   - title: "3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation"
-    year: "2025"
+    year: "2026"
     authors: "JoungBin Lee*, Jaewoo Jung*, Jisang Han*, Takuya Narihira, Kazumi Fukuda, Junyoung Seo, Sunghwan Hong, Yuki Mitsufuji**, Seungryong Kim**"
     venue: "ICLR 2026"
     paper_pdf: "https://arxiv.org/abs/2510.14945"
     code: "https://cvlab-kaist.github.io/3DScenePrompt/"
     selected: y
+    
   - title: "D2USt3R: Enhancing 3D Reconstruction for Dynamic Scenes"
     year: "2025"
     authors: "Jisang Han*, Honggyu An*, Jaewoo Jung*, Takuya Narihira, Junyoung Seo, Kazumi Fukuda, Chaehyun Kim, <b><u>Sunghwan Hong</u></b>, Yuki Mitsufuji**, Seungryong Kim**"
