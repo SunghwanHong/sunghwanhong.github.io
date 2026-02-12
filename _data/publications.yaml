@@ -6,6 +6,34 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2510.14945"
     code: "https://cvlab-kaist.github.io/3DScenePrompt/"
     selected: y
+
+  - title: "C3G: Learning Compact 3D Representations with 2K Gaussians"
+    authors: "Honggyu An*, Jaewoo Jung*, Mungyeom Kim, <b><u>Sunghwan Hong</u></b>, Chaehyun Kim, Kazumi Fukuda, Minkyeong Jeon, Jisang Han, Takuya Narihira, Hyuna Ko, Junsu Kim, Yuki Mitsufuji, Seungryong Kim"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/abs/2512.04021"
+    code: "https://cvlab-kaist.github.io/C3G/"
+    selected: y
+
+  - title: "Emergent Outlier View Rejection in Visual Geometry Grounded Transformers"
+    authors: "Jisang Han*,  <b><u>Sunghwan Hong*</u></b>, Jaewoo Jung, Wooseok Jang, Honggyu An, Qianqian Wang, Seungryong Kim, Chen Feng"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/abs/2512.04012"
+    code: "https://cvlab-kaist.github.io/RobustVGGT/"
+    selected: y
+
+    - title: "VIRAL: Visual Representation Alignment for Multimodal Large Language Models"
+    authors: "Heeji Yoon*, Jaewoo Jung*, Junwan Kim*, Hyungyu Choi, Heeseong Shin, Sangbeom Lim, Honggyu An, Chaehyun Kim, Jisang Han, Donghyun Kim, Chanho Eom, <b><u>Sunghwan Hong</u></b>, Seungryong Kim"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/pdf/2509.07979"
+    code: "https://cvlab-kaist.github.io/VIRAL/"
+    selected: y
+
+    - title: "LitePT: Lighter Yet Stronger Point Transformer"
+    authors: "Yuanwen Yue, Damien Robert, Jianyuan Wang, <b><u>Sunghwan Hong</u></b>, Jan Dirk Wegner, Christian Rupprecht, Konrad Schindler"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/abs/2512.13689"
+    code: "https://litept.github.io/"
+    selected: y
     
   - title: "D2USt3R: Enhancing 3D Reconstruction for Dynamic Scenes"
     year: "2025"
