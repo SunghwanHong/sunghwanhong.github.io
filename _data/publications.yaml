@@ -7,6 +7,13 @@ papers:
     code: "https://cvlab-kaist.github.io/3DScenePrompt/"
     selected: y
 
+  - title: "ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing"
+    authors: "A. Said Gurbuz, <b><u>Sunghwan Hong**</u></b>, Ahmed Nassar, Marc Pollefeys, Peter Staar"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/pdf/2602.14276"
+    code: "https://saidgurbuz.github.io/screenparse/"
+    selected: y
+
   - title: "C3G: Learning Compact 3D Representations with 2K Gaussians"
     authors: "Honggyu An*, Jaewoo Jung*, Mungyeom Kim, <b><u>Sunghwan Hong</u></b>, Chaehyun Kim, Kazumi Fukuda, Minkyeong Jeon, Jisang Han, Takuya Narihira, Hyuna Ko, Junsu Kim, Yuki Mitsufuji, Seungryong Kim"
     venue: "Arxiv 2026"
