@@ -1,7 +1,7 @@
 papers:
   - title: "C3G: Learning Compact 3D Representations with 2K Gaussians"
     year: "2026"
-    authors: "Honggyu An*, Jaewoo Jung*, Mungyeom Kim, Chaehyun Kim, Minkyeong Jeon, Jisang Han, Kazumi Fukuda, Takuya Narihira, Hyunah Ko, Junsu Kim, <b><u>Sunghwan Hong†</u></b>, Yuki Mitsufuji†, Seungryong Kim†"
+    authors: "Honggyu An*, Jaewoo Jung*, Mungyeom Kim, Chaehyun Kim, Minkyeong Jeon, Jisang Han, Kazumi Fukuda, Takuya Narihira, Hyunah Ko, Junsu Kim, <b><u>Sunghwan Hong&dagger;</u></b>, Yuki Mitsufuji&dagger;, Seungryong Kim&dagger;"
     venue: "CVPR 2026"
     paper_pdf: "https://arxiv.org/abs/2512.04021"
     code: "https://cvlab-kaist.github.io/C3G/"
@@ -22,14 +22,14 @@ papers:
     selected: y
     
   - title: "3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation"
-    authors: "JoungBin Lee*, Jaewoo Jung*, Jisang Han*, Takuya Narihira, Kazumi Fukuda, Junyoung Seo, <b><u>Sunghwan Hong</u></b>, Yuki Mitsufuji†, Seungryong Kim†"
+    authors: "JoungBin Lee*, Jaewoo Jung*, Jisang Han*, Takuya Narihira, Kazumi Fukuda, Junyoung Seo, <b><u>Sunghwan Hong</u></b>, Yuki Mitsufuji&dagger;, Seungryong Kim&dagger;"
     venue: "ICLR 2026"
     paper_pdf: "https://arxiv.org/abs/2510.14945"
     code: "https://cvlab-kaist.github.io/3DScenePrompt/"
     selected: y
 
   - title: "ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing"
-    authors: "A. Said Gurbuz, <b><u>Sunghwan Hong†</u></b>, Ahmed Nassar, Marc Pollefeys, Peter Staar"
+    authors: "A. Said Gurbuz, <b><u>Sunghwan Hong&dagger;</u></b>, Ahmed Nassar, Marc Pollefeys, Peter Staar"
     venue: "Arxiv 2026"
     paper_pdf: "https://arxiv.org/pdf/2602.14276"
     code: "https://saidgurbuz.github.io/screenparse/"
@@ -44,28 +44,28 @@ papers:
     
   - title: "D2USt3R: Enhancing 3D Reconstruction for Dynamic Scenes"
     year: "2025"
-    authors: "Jisang Han*, Honggyu An*, Jaewoo Jung*, Takuya Narihira, Junyoung Seo, Kazumi Fukuda, Chaehyun Kim, <b><u>Sunghwan Hong</u></b>, Yuki Mitsufuji†, Seungryong Kim†"
+    authors: "Jisang Han*, Honggyu An*, Jaewoo Jung*, Takuya Narihira, Junyoung Seo, Kazumi Fukuda, Chaehyun Kim, <b><u>Sunghwan Hong</u></b>, Yuki Mitsufuji&dagger;, Seungryong Kim&dagger;"
     venue: "NeurIPS 2025"
     paper_pdf: "https://arxiv.org/pdf/2504.06264"
     code: "https://cvlab-kaist.github.io/DDUSt3R/"
     selected: y
     
   - title: "Seg4Diff: Unveiling Open-Vocabulary Semantic Segmentation in Text-to-Image Diffusion Transformers"
-    authors: "Chaehyun Kim, Heeseong Shin, Eunbeen Hong, Heeji Yoon, Anurag Arnab, Paul Hongsuck Seo, <b><u>Sunghwan Hong†</u></b>, Seungryong Kim†"
+    authors: "Chaehyun Kim, Heeseong Shin, Eunbeen Hong, Heeji Yoon, Anurag Arnab, Paul Hongsuck Seo, <b><u>Sunghwan Hong&dagger;</u></b>, Seungryong Kim&dagger;"
     venue: "NeurIPS 2025"
     paper_pdf: "https://arxiv.org/abs/2509.18096"
     code: "https://cvlab-kaist.github.io/Seg4Diff/"
     selected: y
     
   - title: "PF3plat : Pose-Free Feed-Forward 3D Gaussian Splatting"
-    authors: "<b><u>Sunghwan Hong*</u></b>, Jaewoo Jung*, Heeseong Shin, Jisang Han, Jiaolong Yang†, Chong Luo†, Seungryong Kim†"
+    authors: "<b><u>Sunghwan Hong*</u></b>, Jaewoo Jung*, Heeseong Shin, Jisang Han, Jiaolong Yang&dagger;, Chong Luo&dagger;, Seungryong Kim&dagger;"
     venue: "ICML 2025"
     paper_pdf: "https://arxiv.org/pdf/2410.22128"
     code: "https://cvlab-kaist.github.io/PF3plat/"
     selected: y
     
   - title: "Cross-View Completion Models are Zero-shot Correspondence Estimators"
-    authors: "Honggyu An*, Jinhyeon Kim*, Seonghoon Park, Jaewoo Jung, Jisang Han, <b><u>Sunghwan Hong†</u></b>, Seungryong Kim†"
+    authors: "Honggyu An*, Jinhyeon Kim*, Seonghoon Park, Jaewoo Jung, Jisang Han, <b><u>Sunghwan Hong&dagger;</u></b>, Seungryong Kim&dagger;"
     venue: "CVPR 2025 (Highlight)"
     paper_pdf: "https://arxiv.org/abs/2412.09072"
     code: "https://github.com/cvlab-kaist/ZeroCo"
