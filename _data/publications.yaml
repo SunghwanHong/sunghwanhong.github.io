@@ -41,7 +41,6 @@ papers:
     paper_pdf: "https://arxiv.org/pdf/2509.07979"
     code: "https://cvlab-kaist.github.io/VIRAL/"
     selected: y
-
     
   - title: "D2USt3R: Enhancing 3D Reconstruction for Dynamic Scenes"
     year: "2025"
