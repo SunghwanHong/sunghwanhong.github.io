@@ -1,7 +1,7 @@
 papers:
   - title: "C3G: Learning Compact 3D Representations with 2K Gaussians"
     year: "2026"
-    authors: "Honggyu An*, Jaewoo Jung*, Mungyeom Kim, Chaehyun Kim, Minkyeong Jeon, Jisang Han, Kazumi Fukuda, Takuya Narihira, Hyunah Ko, Junsu Kim, <b><u>Sunghwan Hong†</u></b>, Yuki Mitsufuji†, Seungryong Kim†
+    authors: "Honggyu An*, Jaewoo Jung*, Mungyeom Kim, Chaehyun Kim, Minkyeong Jeon, Jisang Han, Kazumi Fukuda, Takuya Narihira, Hyunah Ko, Junsu Kim, <b><u>Sunghwan Hong†</u></b>, Yuki Mitsufuji†, Seungryong Kim†"
     venue: "CVPR 2026"
     paper_pdf: "https://arxiv.org/abs/2512.04021"
     code: "https://cvlab-kaist.github.io/C3G/"
