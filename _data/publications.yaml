@@ -41,6 +41,13 @@ papers:
     paper_pdf: "https://arxiv.org/pdf/2509.07979"
     code: "https://cvlab-kaist.github.io/VIRAL/"
     selected: y
+
+  - title: "TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation"
+    authors: "Jini Yang, Eunbeen Hong, Soowon Son, Hyunkoo Lee, Sunghwan Hong, Sunok Kim, Seungryong Kim"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/abs/2603.23487"
+    code: "https://cvlab-kaist.github.io/TETO/"
+    selected: y
     
   - title: "D2USt3R: Enhancing 3D Reconstruction for Dynamic Scenes"
     year: "2025"
