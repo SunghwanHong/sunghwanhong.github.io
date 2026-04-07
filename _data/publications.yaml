@@ -28,6 +28,13 @@ papers:
     code: "https://cvlab-kaist.github.io/3DScenePrompt/"
     selected: y
 
+  - title: "TORA: Topological Representation Alignment for 3D Shape Assembly"
+    authors: "Nahyuk Lee*, Zhiang Chen*, Marc Pollefeys, <b><u>Sunghwan Hong&dagger;</u></b>"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/pdf/2604.04050"
+    code: "https://nahyuklee.github.io/tora/"
+    selected: y
+  
   - title: "ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing"
     authors: "A. Said Gurbuz, <b><u>Sunghwan Hong&dagger;</u></b>, Ahmed Nassar, Marc Pollefeys, Peter Staar"
     venue: "Arxiv 2026"
