@@ -16,7 +16,7 @@ papers:
     
   - title: "LitePT: Lighter Yet Stronger Point Transformer"
     authors: "Yuanwen Yue, Damien Robert, Jianyuan Wang, <b><u>Sunghwan Hong</u></b>, Jan Dirk Wegner, Christian Rupprecht, Konrad Schindler"
-    venue: "CVPR 2026"
+    venue: "CVPR 2026 (Highlight)"
     paper_pdf: "https://arxiv.org/abs/2512.13689"
     code: "https://litept.github.io/"
     selected: y
