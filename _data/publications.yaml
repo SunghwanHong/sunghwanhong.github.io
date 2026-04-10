@@ -28,6 +28,13 @@ papers:
     code: "https://cvlab-kaist.github.io/3DScenePrompt/"
     selected: y
 
+  - title: "Entropy-Gradient Grounding: Training-Free Evidence Retrieval in Vision-Language Models"
+    authors: "Marcel Gröpl*, Jaewoo Jung*, Seungryong Kim, Marc Pollefeys, <b><u>Sunghwan Hong&dagger;</u></b>"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/abs/2604.08456"
+    code: "https://entropy-gradient-grounding.github.io/"
+    selected: y
+
   - title: "TORA: Topological Representation Alignment for 3D Shape Assembly"
     authors: "Nahyuk Lee*, Zhiang Chen*, Marc Pollefeys, <b><u>Sunghwan Hong&dagger;</u></b>"
     venue: "Arxiv 2026"
