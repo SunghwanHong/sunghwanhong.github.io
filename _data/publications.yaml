@@ -35,6 +35,13 @@ papers:
     code: "https://cvlab-kaist.github.io/3DScenePrompt/"
     selected: y
 
+  - title: "Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction"
+    authors: "Mungyeom Kim, Minkyeong Jeon, Honggyu An, Jaewoo Jung, Hyuna Ko, Jisang Han, Hyeonseo Yu, Donghwan Shin, <b><u>Sunghwan Hong</u></b>, Takuya Narihira, Kazumi Fukuda, Yuki Mitsufuji, Seungryong Kim"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/pdf/2605.31595"
+    code: "https://cvlab-kaist.github.io/C4G/"
+    selected: y
+  
   - title: "No Pose, No Problem in 4D: Feed-Forward Dynamic Gaussians from Unposed Multi-View Videos"
     authors: "Matteo Balice, Yanik Künzi, Chenyangguang Zhang, Matteo Matteucci, Marc Pollefeys, <b><u>Sunghwan Hong&dagger;</u></b>"
     venue: "Arxiv 2026"
