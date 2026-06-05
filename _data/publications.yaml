@@ -35,6 +35,13 @@ papers:
     code: "https://cvlab-kaist.github.io/3DScenePrompt/"
     selected: y
 
+  - title: "ZipSplat: Fewer Gaussians, Better Splats"
+    authors: "Alexander Veicht, <b><u>Sunghwan Hong&dagger;</u></b>, Dániel Baráth, Marc Pollefeys"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/abs/2606.05102"
+    code: "https://veichta.com/zipsplat/"
+    selected: y
+  
   - title: "Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction"
     authors: "Mungyeom Kim, Minkyeong Jeon, Honggyu An, Jaewoo Jung, Hyuna Ko, Jisang Han, Hyeonseo Yu, Donghwan Shin, <b><u>Sunghwan Hong</u></b>, Takuya Narihira, Kazumi Fukuda, Yuki Mitsufuji, Seungryong Kim"
     venue: "Arxiv 2026"
