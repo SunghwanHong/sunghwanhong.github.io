@@ -31,15 +31,29 @@ papers:
   - title: "3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation"
     authors: "JoungBin Lee*, Jaewoo Jung*, Jisang Han*, Takuya Narihira, Kazumi Fukuda, Junyoung Seo, <b><u>Sunghwan Hong</u></b>, Yuki Mitsufuji&dagger;, Seungryong Kim&dagger;"
     venue: "ICLR 2026"
-    paper_pdf: "https://arxiv.org/abs/2510.14945"
-    code: "https://cvlab-kaist.github.io/3DScenePrompt/"
+    paper_pdf: "https://arxiv.org/abs/2606.17046"
+    code: "https://arxiv.org/abs/2606.17046"
     selected: y
 
-  - title: "ZipSplat: Fewer Gaussians, Better Splats"
-    authors: "Alexander Veicht, <b><u>Sunghwan Hong&dagger;</u></b>, Dániel Baráth, Marc Pollefeys"
+  - title: "Geometric Action Model for Robot Policy Learning"
+    authors: "Jisang Han, Seonghu Jeon, Jaewoo Jung, René Zurbrügg, Honggyu An, Tifanny Portela, Marco Hutter, Marc Pollefeys, Seungryong Kim, <b><u>Sunghwan Hong&dagger;</u></b>"
     venue: "Arxiv 2026"
     paper_pdf: "https://arxiv.org/abs/2606.05102"
-    code: "https://veichta.com/zipsplat/"
+    code: "https://cvlab-kaist.github.io/Geometric-Action-Model/"
+    selected: y
+
+  - title: "PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models"
+    authors: "Jisang Han, Seonghu Jeon, Jaewoo Jung, René Zurbrügg, Honggyu An, Tifanny Portela, Marco Hutter, Marc Pollefeys, Seungryong Kim, <b><u>Sunghwan Hong&dagger;</u></b>"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/abs/2606.05102"
+    code: "https://cvlab-kaist.github.io/Geometric-Action-Model/"
+    selected: y
+  
+  - title: "ZipSplat: Fewer Gaussians, Better Splats"
+    authors: "Zhiang Chen, Nahyuk Lee, Boyang Sun, Taein Kwon, Marc Pollefeys, Zuria Bauer, <b><u>Sunghwan Hong&dagger;</u></b>"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/abs/2606.16569"
+    code: "https://rckola.github.io/prose/"
     selected: y
   
   - title: "Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction"
