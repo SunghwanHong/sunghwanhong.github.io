@@ -1,6 +1,32 @@
 papers:
-  - title: "ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing"
+  - title: "Entropy-Gradient Grounding: Training-Free Evidence Retrieval in Vision-Language Models"
     year: "2026"
+    authors: "Marcel Gröpl*, Jaewoo Jung*, Seungryong Kim, Marc Pollefeys, <b><u>Sunghwan Hong&dagger;</u></b>"
+    venue: "ECCV 2026"
+    paper_pdf: "https://arxiv.org/abs/2604.08456"
+    code: "https://entropy-gradient-grounding.github.io/"
+    selected: y
+
+  - title: "Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs"
+    authors: "Yung-Hsu Yang, Luigi Piccinelli, Samuel Rota Bulò, <b><u>Sunghwan Hong</u></b>, Denis Rozumny, Johannes Schönberger, Zuria Bauer, Hermann Blum, Peter Kontschieder, Marc Pollefeys"
+    venue: "ECCV 2026"
+    selected: y
+  
+  - title: "TORA: Topological Representation Alignment for 3D Shape Assembly"
+    authors: "Nahyuk Lee*, Zhiang Chen*, Marc Pollefeys, <b><u>Sunghwan Hong&dagger;</u></b>"
+    venue: "ECCV 2026"
+    paper_pdf: "https://arxiv.org/pdf/2604.04050"
+    code: "https://nahyuklee.github.io/tora/"
+    selected: y
+
+  - title: "TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation"
+    authors: "Jini Yang, Eunbeen Hong, Soowon Son, Hyunkoo Lee, <b><u>Sunghwan Hong</u></b>, Sunok Kim, Seungryong Kim"
+    venue: "ECCV 2026"
+    paper_pdf: "https://arxiv.org/abs/2603.23487"
+    code: "https://cvlab-kaist.github.io/TETO/"
+    selected: y
+  
+  - title: "ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing"
     authors: "A. Said Gurbuz, <b><u>Sunghwan Hong&dagger;</u></b>, Ahmed Nassar, Marc Pollefeys, Peter Staar"
     venue: "ICML 2026"
     paper_pdf: "https://arxiv.org/pdf/2602.14276"
@@ -69,33 +95,12 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2605.22190"
     code: "https://bralani.github.io/nopo4d_html/"
     selected: y
-  
-  - title: "Entropy-Gradient Grounding: Training-Free Evidence Retrieval in Vision-Language Models"
-    authors: "Marcel Gröpl*, Jaewoo Jung*, Seungryong Kim, Marc Pollefeys, <b><u>Sunghwan Hong&dagger;</u></b>"
-    venue: "Arxiv 2026"
-    paper_pdf: "https://arxiv.org/abs/2604.08456"
-    code: "https://entropy-gradient-grounding.github.io/"
-    selected: y
-
-  - title: "TORA: Topological Representation Alignment for 3D Shape Assembly"
-    authors: "Nahyuk Lee*, Zhiang Chen*, Marc Pollefeys, <b><u>Sunghwan Hong&dagger;</u></b>"
-    venue: "Arxiv 2026"
-    paper_pdf: "https://arxiv.org/pdf/2604.04050"
-    code: "https://nahyuklee.github.io/tora/"
-    selected: y
 
   - title: "VIRAL: Visual Representation Alignment for Multimodal Large Language Models"
     authors: "Heeji Yoon*, Jaewoo Jung*, Junwan Kim*, Hyungyu Choi, Heeseong Shin, Sangbeom Lim, Honggyu An, Chaehyun Kim, Jisang Han, Donghyun Kim, Chanho Eom, <b><u>Sunghwan Hong</u></b>, Seungryong Kim"
     venue: "Arxiv 2026"
     paper_pdf: "https://arxiv.org/pdf/2509.07979"
     code: "https://cvlab-kaist.github.io/VIRAL/"
-    selected: y
-
-  - title: "TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation"
-    authors: "Jini Yang, Eunbeen Hong, Soowon Son, Hyunkoo Lee, Sunghwan Hong, Sunok Kim, Seungryong Kim"
-    venue: "Arxiv 2026"
-    paper_pdf: "https://arxiv.org/abs/2603.23487"
-    code: "https://cvlab-kaist.github.io/TETO/"
     selected: y
     
   - title: "D2USt3R: Enhancing 3D Reconstruction for Dynamic Scenes"
