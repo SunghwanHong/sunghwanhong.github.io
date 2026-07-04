@@ -61,6 +61,13 @@ papers:
     code: "https://arxiv.org/abs/2606.17046"
     selected: y
 
+  - title: "LIME: Learning Intent-aware Camera Motion from Egocentric Video"
+    authors: "Boyang Sun, Jiajie Li, Yung-Hsu Yang, Chenyangguang Zhang, Tim Engelbracht, <b><u>Sunghwan Hong</u></b>, Cesar Cadena, Marc Pollefeys, Hermann Blum"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/pdf/2607.02417"
+    code: "https://boysun045.github.io/LIME-Page/"
+    selected: y
+  
   - title: "Geometric Action Model for Robot Policy Learning"
     authors: "Jisang Han, Seonghu Jeon, Jaewoo Jung, René Zurbrügg, Honggyu An, Tifanny Portela, Marco Hutter, Marc Pollefeys, Seungryong Kim, <b><u>Sunghwan Hong&dagger;</u></b>"
     venue: "Arxiv 2026"
