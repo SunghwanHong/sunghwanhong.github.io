@@ -92,3 +92,65 @@ $(document).ready(function() {
   init();
 
 });
+
+/* ================ Publication thumbnails: lightbox + missing-image fallback ================ */
+$(document).ready(function () {
+
+  // If a thumbnail file is missing, swap in a neutral placeholder instead of a broken image.
+  $('.pub-thumb-inner img').on('error', function () {
+    var $box = $(this).closest('.pub-thumb-inner');
+    var label = $(this).data('venue') || '';
+    $(this).remove();
+    $box.removeClass('has-image')
+        .append($('<div class="pub-thumb-empty"></div>').text(label));
+  });
+
+  if ($('.pub-thumb-inner.has-image').length === 0) { return; }
+
+  var $lightbox = $(
+    '<div class="pub-lightbox" role="dialog" aria-modal="true" aria-label="Enlarged figure">' +
+      '<span class="pub-lightbox-close" role="button" tabindex="0" aria-label="Close">&times;</span>' +
+      '<img alt="">' +
+    '</div>'
+  ).appendTo('body');
+
+  var $lightboxImg = $lightbox.find('img');
+  var $lastTrigger = null;
+
+  function openLightbox($box) {
+    var $img = $box.find('img');
+    if ($img.length === 0) { return; }
+    $lastTrigger = $box;
+    $lightboxImg.attr('src', $img.attr('src')).attr('alt', $img.attr('alt') || '');
+    $lightbox.addClass('open');
+    $lightbox.find('.pub-lightbox-close').focus();
+  }
+
+  function closeLightbox() {
+    $lightbox.removeClass('open');
+    $lightboxImg.attr('src', '');
+    if ($lastTrigger) { $lastTrigger.focus(); }
+  }
+
+  $(document).on('click', '.pub-thumb-inner.has-image', function () {
+    openLightbox($(this));
+  });
+
+  $(document).on('keydown', '.pub-thumb-inner.has-image', function (e) {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      openLightbox($(this));
+    }
+  });
+
+  $lightbox.on('click', function (e) {
+    if (e.target === this || $(e.target).hasClass('pub-lightbox-close')) {
+      closeLightbox();
+    }
+  });
+
+  $(document).on('keydown', function (e) {
+    if (e.key === 'Escape' && $lightbox.hasClass('open')) { closeLightbox(); }
+  });
+
+});

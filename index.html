@@ -142,51 +142,72 @@ layout: default
 
   <div class="tab-content">
     <div class="tab-pane active" id="papers-selected">
+      <p class="pub-hint">Click any thumbnail to enlarge. &nbsp;&middot;&nbsp; * denotes equal contribution, &dagger; denotes corresponding author.</p>
       {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
       {% for paper in selected_papers %}
-        <div class="paper">
-          <div class="row">
-            <!--
-            <div class="four columns">
-              <div class="figure">
-                <img src="{{ paper.image }}" width="100%">
+        {% if paper.year %}
+          <h5 class="pub-year">{{ paper.year }}</h5>
+          <hr />
+        {% endif %}
+        <div class="paper paper-item">
+
+          <div class="pub-thumb">
+            {% if paper.image %}
+              <div class="pub-thumb-inner has-image" tabindex="0" role="button" aria-label="Enlarge figure for {{ paper.title | strip_html | escape }}">
+                <img src="{{ paper.image | prepend: site.baseurl }}"
+                     alt="{{ paper.title | strip_html | escape }}"
+                     data-venue="{{ paper.venue }}"
+                     loading="lazy">
               </div>
-            </div>
-            -->
-            <div class="twelve columns">
-              {% if paper.year %}
-                <p><h5>{{ paper.year }}</h5><hr /></p>
+            {% else %}
+              <div class="pub-thumb-inner">
+                <div class="pub-thumb-empty">{{ paper.venue }}</div>
+              </div>
+            {% endif %}
+          </div>
+
+          <div class="pub-body">
+            <p class="title pub-title">
+              {% if paper.code %}
+                <a href="{{ paper.code }}" target="_blank">{{ paper.title }}</a>
+              {% elsif paper.paper_pdf %}
+                <a href="{{ paper.paper_pdf }}" target="_blank">{{ paper.title }}</a>
+              {% else %}
+                {{ paper.title }}
               {% endif %}
-              <p class="title"><b>{{ paper.title }}</b></p>
-              <p>{{ paper.authors }}</p>
-              <p><i>{{ paper.venue }}</i></p>
-              <div class="paper-buttons">
-                {% if paper.paper_pdf %}
-                  <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
-                {% endif %}
+            </p>
 
-                {% if paper.poster %}
-                  <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-                {% endif %}
+            <p class="pub-authors">{{ paper.authors }}</p>
 
-                {% if paper.video %}
-                  <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-                {% endif %}
+            <span class="pub-venue{% if paper.venue contains 'Highlight' or paper.venue contains 'Oral' or paper.venue contains 'Award' %} is-award{% endif %}">{{ paper.venue }}</span>
 
-                {% if paper.code %}
-                  <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-                {% endif %}
-                
-                {% if paper.slides %}
-                  <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-                {% endif %}
-                
-                {% if paper.twitter %}
-                  <a class="button" href="{{ paper.twitter }}" target="_blank">Twitter</a>
-                {% endif %}
-              </div>
+            <div class="paper-buttons">
+              {% if paper.paper_pdf %}
+                <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
+              {% endif %}
+
+              {% if paper.poster %}
+                <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+              {% endif %}
+
+              {% if paper.video %}
+                <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+              {% endif %}
+
+              {% if paper.code %}
+                <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+              {% endif %}
+
+              {% if paper.slides %}
+                <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+              {% endif %}
+
+              {% if paper.twitter %}
+                <a class="button" href="{{ paper.twitter }}" target="_blank">Twitter</a>
+              {% endif %}
             </div>
-          </div>       
+          </div>
+
         </div>
       {% endfor %}
       <h6><b><i>( * indicates equal contribution and † indicates corresponding author )</i></b></h6>

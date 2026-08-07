@@ -1,6 +1,7 @@
 papers:
   - title: "Entropy-Gradient Grounding: Training-Free Evidence Retrieval in Vision-Language Models"
     year: "2026"
+    image: "/assets/publications/thumbs/egg.jpg"
     authors: "Marcel Gröpl*, Jaewoo Jung*, Seungryong Kim, Marc Pollefeys, <b><u>Sunghwan Hong&dagger;</u></b>"
     venue: "ECCV 2026"
     paper_pdf: "https://arxiv.org/abs/2604.08456"
@@ -8,11 +9,13 @@ papers:
     selected: y
 
   - title: "Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs"
+    image: "/assets/publications/thumbs/map-det3d.jpg"
     authors: "Yung-Hsu Yang, Luigi Piccinelli, Samuel Rota Bulò, <b><u>Sunghwan Hong</u></b>, Denis Rozumny, Johannes Schönberger, Zuria Bauer, Hermann Blum, Peter Kontschieder, Marc Pollefeys"
     venue: "ECCV 2026"
     selected: y
   
   - title: "TORA: Topological Representation Alignment for 3D Shape Assembly"
+    image: "/assets/publications/thumbs/tora.jpg"
     authors: "Nahyuk Lee*, Zhiang Chen*, Marc Pollefeys, <b><u>Sunghwan Hong&dagger;</u></b>"
     venue: "ECCV 2026"
     paper_pdf: "https://arxiv.org/pdf/2604.04050"
@@ -20,6 +23,7 @@ papers:
     selected: y
 
   - title: "TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation"
+    image: "/assets/publications/thumbs/teto.jpg"
     authors: "Jini Yang, Eunbeen Hong, Soowon Son, Hyunkoo Lee, <b><u>Sunghwan Hong</u></b>, Sunok Kim, Seungryong Kim"
     venue: "ECCV 2026"
     paper_pdf: "https://arxiv.org/abs/2603.23487"
@@ -27,6 +31,7 @@ papers:
     selected: y
   
   - title: "ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing"
+    image: "/assets/publications/thumbs/screenparse.jpg"
     authors: "A. Said Gurbuz, <b><u>Sunghwan Hong&dagger;</u></b>, Ahmed Nassar, Marc Pollefeys, Peter Staar"
     venue: "ICML 2026"
     paper_pdf: "https://arxiv.org/pdf/2602.14276"
@@ -34,6 +39,7 @@ papers:
     selected: y
 
   - title: "C3G: Learning Compact 3D Representations with 2K Gaussians"
+    image: "/assets/publications/thumbs/c3g.jpg"
     authors: "Honggyu An*, Jaewoo Jung*, Mungyeom Kim, Chaehyun Kim, Minkyeong Jeon, Jisang Han, Kazumi Fukuda, Takuya Narihira, Hyunah Ko, Junsu Kim, <b><u>Sunghwan Hong&dagger;</u></b>, Yuki Mitsufuji&dagger;, Seungryong Kim&dagger;"
     venue: "CVPR 2026"
     paper_pdf: "https://arxiv.org/abs/2512.04021"
@@ -41,6 +47,7 @@ papers:
     selected: y
 
   - title: "Emergent Outlier View Rejection in Visual Geometry Grounded Transformers"
+    image: "/assets/publications/thumbs/robustvggt.jpg"
     authors: "Jisang Han*, <b><u>Sunghwan Hong*</u></b>, Jaewoo Jung, Wooseok Jang, Honggyu An, Qianqian Wang, Seungryong Kim, Chen Feng"
     venue: "CVPR 2026"
     paper_pdf: "https://arxiv.org/abs/2512.04012"
@@ -48,6 +55,7 @@ papers:
     selected: y
     
   - title: "LitePT: Lighter Yet Stronger Point Transformer"
+    image: "/assets/publications/thumbs/litept.jpg"
     authors: "Yuanwen Yue, Damien Robert, Jianyuan Wang, <b><u>Sunghwan Hong</u></b>, Jan Dirk Wegner, Christian Rupprecht, Konrad Schindler"
     venue: "CVPR 2026 (Highlight)"
     paper_pdf: "https://arxiv.org/abs/2512.13689"
@@ -55,6 +63,7 @@ papers:
     selected: y
     
   - title: "3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation"
+    image: "/assets/publications/thumbs/3dsceneprompt.jpg"
     authors: "JoungBin Lee*, Jaewoo Jung*, Jisang Han*, Takuya Narihira, Kazumi Fukuda, Junyoung Seo, <b><u>Sunghwan Hong</u></b>, Yuki Mitsufuji&dagger;, Seungryong Kim&dagger;"
     venue: "ICLR 2026"
     paper_pdf: "https://arxiv.org/abs/2606.17046"
@@ -62,6 +71,7 @@ papers:
     selected: y
 
   - title: "LIME: Learning Intent-aware Camera Motion from Egocentric Video"
+    image: "/assets/publications/thumbs/lime.jpg"
     authors: "Boyang Sun, Jiajie Li, Yung-Hsu Yang, Chenyangguang Zhang, Tim Engelbracht, <b><u>Sunghwan Hong</u></b>, Cesar Cadena, Marc Pollefeys, Hermann Blum"
     venue: "Arxiv 2026"
     paper_pdf: "https://arxiv.org/pdf/2607.02417"
@@ -69,6 +79,7 @@ papers:
     selected: y
   
   - title: "Geometric Action Model for Robot Policy Learning"
+    image: "/assets/publications/thumbs/gam.jpg"
     authors: "Jisang Han, Seonghu Jeon, Jaewoo Jung, René Zurbrügg, Honggyu An, Tifanny Portela, Marco Hutter, Marc Pollefeys, Seungryong Kim, <b><u>Sunghwan Hong&dagger;</u></b>"
     venue: "Arxiv 2026"
     paper_pdf: "https://arxiv.org/abs/2606.05102"
@@ -76,6 +87,7 @@ papers:
     selected: y
 
   - title: "PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models"
+    image: "/assets/publications/thumbs/prose.jpg"
     authors: "Zhiang Chen, Nahyuk Lee, Boyang Sun, Taein Kwon, Marc Pollefeys, Zuria Bauer, <b><u>Sunghwan Hong&dagger;</u></b>"
     venue: "Arxiv 2026"
     paper_pdf: "https://arxiv.org/abs/2606.16569"
@@ -83,6 +95,7 @@ papers:
     selected: y
   
   - title: "ZipSplat: Fewer Gaussians, Better Splats"
+    image: "/assets/publications/thumbs/zipsplat.jpg"
     authors: "Alexander Veicht, <b><u>Sunghwan Hong&dagger;</u></b>, Dániel Baráth, Marc Pollefeys"
     venue: "Arxiv 2026"
     paper_pdf: "https://arxiv.org/abs/2606.05102"
@@ -90,6 +103,7 @@ papers:
     selected: y
   
   - title: "Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction"
+    image: "/assets/publications/thumbs/c4g.jpg"
     authors: "Mungyeom Kim, Minkyeong Jeon, Honggyu An, Jaewoo Jung, Hyuna Ko, Jisang Han, Hyeonseo Yu, Donghwan Shin, <b><u>Sunghwan Hong</u></b>, Takuya Narihira, Kazumi Fukuda, Yuki Mitsufuji, Seungryong Kim"
     venue: "Arxiv 2026"
     paper_pdf: "https://arxiv.org/pdf/2605.31595"
@@ -97,6 +111,7 @@ papers:
     selected: y
   
   - title: "No Pose, No Problem in 4D: Feed-Forward Dynamic Gaussians from Unposed Multi-View Videos"
+    image: "/assets/publications/thumbs/nopo4d.jpg"
     authors: "Matteo Balice, Yanik Künzi, Chenyangguang Zhang, Matteo Matteucci, Marc Pollefeys, <b><u>Sunghwan Hong&dagger;</u></b>"
     venue: "Arxiv 2026"
     paper_pdf: "https://arxiv.org/abs/2605.22190"
@@ -104,6 +119,7 @@ papers:
     selected: y
 
   - title: "VIRAL: Visual Representation Alignment for Multimodal Large Language Models"
+    image: "/assets/publications/thumbs/viral.jpg"
     authors: "Heeji Yoon*, Jaewoo Jung*, Junwan Kim*, Hyungyu Choi, Heeseong Shin, Sangbeom Lim, Honggyu An, Chaehyun Kim, Jisang Han, Donghyun Kim, Chanho Eom, <b><u>Sunghwan Hong</u></b>, Seungryong Kim"
     venue: "Arxiv 2026"
     paper_pdf: "https://arxiv.org/pdf/2509.07979"
@@ -112,6 +128,7 @@ papers:
     
   - title: "D2USt3R: Enhancing 3D Reconstruction for Dynamic Scenes"
     year: "2025"
+    image: "/assets/publications/thumbs/d2ust3r.jpg"
     authors: "Jisang Han*, Honggyu An*, Jaewoo Jung*, Takuya Narihira, Junyoung Seo, Kazumi Fukuda, Chaehyun Kim, <b><u>Sunghwan Hong</u></b>, Yuki Mitsufuji&dagger;, Seungryong Kim&dagger;"
     venue: "NeurIPS 2025"
     paper_pdf: "https://arxiv.org/pdf/2504.06264"
@@ -119,6 +136,7 @@ papers:
     selected: y
     
   - title: "Seg4Diff: Unveiling Open-Vocabulary Semantic Segmentation in Text-to-Image Diffusion Transformers"
+    image: "/assets/publications/thumbs/seg4diff.jpg"
     authors: "Chaehyun Kim, Heeseong Shin, Eunbeen Hong, Heeji Yoon, Anurag Arnab, Paul Hongsuck Seo, <b><u>Sunghwan Hong&dagger;</u></b>, Seungryong Kim&dagger;"
     venue: "NeurIPS 2025"
     paper_pdf: "https://arxiv.org/abs/2509.18096"
@@ -126,6 +144,7 @@ papers:
     selected: y
     
   - title: "PF3plat : Pose-Free Feed-Forward 3D Gaussian Splatting"
+    image: "/assets/publications/thumbs/pf3plat.jpg"
     authors: "<b><u>Sunghwan Hong*</u></b>, Jaewoo Jung*, Heeseong Shin, Jisang Han, Jiaolong Yang&dagger;, Chong Luo&dagger;, Seungryong Kim&dagger;"
     venue: "ICML 2025"
     paper_pdf: "https://arxiv.org/pdf/2410.22128"
@@ -133,6 +152,7 @@ papers:
     selected: y
     
   - title: "Cross-View Completion Models are Zero-shot Correspondence Estimators"
+    image: "/assets/publications/thumbs/zeroco.jpg"
     authors: "Honggyu An*, Jinhyeon Kim*, Seonghoon Park, Jaewoo Jung, Jisang Han, <b><u>Sunghwan Hong&dagger;</u></b>, Seungryong Kim&dagger;"
     venue: "CVPR 2025 (Highlight)"
     paper_pdf: "https://arxiv.org/abs/2412.09072"
@@ -141,6 +161,7 @@ papers:
     
   - title: "Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels"
     year: "2024"
+    image: "/assets/publications/thumbs/pixelclip.jpg"
     authors: "Heeseong Shin, Chaehyon Kim, <b><u>Sunghwan Hong</u></b>, Seokju Cho, Anurag Arnab, Paul Hongsuck Seo, Seungryong Kim"
     venue: "NeurIPS 2024"
     paper_pdf: "https://arxiv.org/abs/2409.19846"
@@ -148,6 +169,7 @@ papers:
     selected: y
     
   - title: "Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs"
+    image: "/assets/publications/thumbs/coponerf.jpg"
     authors: "<b><u>Sunghwan Hong</u></b>, Jaewoo Jung, Heeseong Shin, Jiaolong Yang, Seungryong Kim, Chong Luo"
     venue: "CVPR 2024 (Highlight)"
     paper_pdf: "https://arxiv.org/pdf/2312.07246"
@@ -155,6 +177,7 @@ papers:
     selected: y
 
   - title: "CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation"
+    image: "/assets/publications/thumbs/cat-seg.jpg"
     authors: "Seokju Cho*, Heeseong Shin*, <b><u>Sunghwan Hong</u></b>, Anurag Arnab, Paul Hongseok Seo, Seungryong Kim"
     venue: "CVPR 2024 (Highlight)"
     paper_pdf: "https://arxiv.org/abs/2303.11797"
@@ -162,6 +185,7 @@ papers:
     selected: y
     
   - title: "Unifying Feature and Cost Aggregation with Transformers for Dense Correspondence"
+    image: "/assets/publications/thumbs/ufc.jpg"
     authors: "<b><u>Sunghwan Hong</u></b>*, Seokju Cho*, Seungryong Kim, Stephen Lin"
     venue: "ICLR 2024"
     paper_pdf: "https://arxiv.org/abs/2403.11120"
@@ -169,6 +193,7 @@ papers:
     
   - title: "CATs++: Boosting Cost Aggregation with Convolutions and Transformers"
     year: "2023"
+    image: "/assets/publications/thumbs/cats-plusplus.jpg"
     authors: "Seokju Cho*, <b><u>Sunghwan Hong</u></b>*, Seungryong Kim"
     venue: "TPAMI"
     paper_pdf: "https://arxiv.org/abs/2202.068177"
@@ -177,6 +202,7 @@ papers:
     
   - title: "Neural Matching Fields: Implicit Representation of Matching Fields for Visual Correspondence "
     year: "2022"
+    image: "/assets/publications/thumbs/nemf.jpg"
     authors: "<b><u>Sunghwan Hong</u></b>, Jisu Nam, Seokju Cho, Susung Hong, Sangryul Jeon, Dongbo Min, Seungryong Kim"
     venue: "NeurIPS 2022"
     paper_pdf: "https://arxiv.org/abs/2210.02689"
@@ -184,6 +210,7 @@ papers:
     selected: y
 
   - title: "Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation"
+    image: "/assets/publications/thumbs/vat.jpg"
     authors: "<b><u>Sunghwan Hong</u></b>*, Seokju Cho*, Jisu Nam, Stephen Lin, Seungryong Kim "
     venue: "ECCV 2022"
     paper_pdf: "https://arxiv.org/abs/2207.10866"
@@ -192,7 +219,7 @@ papers:
   
   - title: "CATs: Cost Aggregation Transformers for Visual Correspondence "
     year: "2021"
-    image: "/assets/publications/2022_emnlp/ropt.png"
+    image: "/assets/publications/thumbs/cats.jpg"
     authors: "Seokju Cho*, <b><u>Sunghwan Hong</u></b>*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, Seungryong Kim"
     venue: "NeurIPS 2021"
     paper_pdf: "https://arxiv.org/abs/2106.02520"
@@ -200,7 +227,7 @@ papers:
     selected: y
 
   - title: "Deep Matching Prior: Test-Time Optimization for Dense Correspondence "
-    image: "/assets/publications/2022_emnlp/ropt.png"
+    image: "/assets/publications/thumbs/dmp.jpg"
     authors: "<b><u>Sunghwan Hong</u></b>, Seungryong Kim"
     venue: "ICCV 2021"
     paper_pdf: "https://arxiv.org/abs/2106.03090"
