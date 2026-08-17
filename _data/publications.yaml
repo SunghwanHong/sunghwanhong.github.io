@@ -12,6 +12,8 @@ papers:
     image: "/assets/publications/thumbs/map-det3d.jpg"
     authors: "Yung-Hsu Yang, Luigi Piccinelli, Samuel Rota Bulò, <b><u>Sunghwan Hong</u></b>, Denis Rozumny, Johannes Schönberger, Zuria Bauer, Hermann Blum, Peter Kontschieder, Marc Pollefeys"
     venue: "ECCV 2026"
+    paper_pdf: "https://arxiv.org/abs/2608.12179"
+    code: "https://github.com/cvg/Map-Det3D"
     selected: y
   
   - title: "TORA: Topological Representation Alignment for 3D Shape Assembly"
