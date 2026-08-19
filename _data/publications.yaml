@@ -72,6 +72,14 @@ papers:
     code: "https://arxiv.org/abs/2606.17046"
     selected: y
 
+  - title: "GenRec: Knowing Where to Reconstruct and Where to Generate"
+    image: "/assets/publications/thumbs/genrec.jpg"
+    authors: "Ata Çelen, Jaewoo Jung, Federico Tombari, Marc Pollefeys, <b><u>Sunghwan Hong</u></b>, Michael Niemeyer, Daniel Barath"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/pdf/2608.17832"
+    code: "https://atcelen.github.io/GenRec/"
+    selected: y
+  
   - title: "LIME: Learning Intent-aware Camera Motion from Egocentric Video"
     image: "/assets/publications/thumbs/lime.jpg"
     authors: "Boyang Sun, Jiajie Li, Yung-Hsu Yang, Chenyangguang Zhang, Tim Engelbracht, <b><u>Sunghwan Hong</u></b>, Cesar Cadena, Marc Pollefeys, Hermann Blum"
