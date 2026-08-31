@@ -92,7 +92,7 @@ papers:
     image: "/assets/publications/thumbs/gam.jpg"
     authors: "Jisang Han, Seonghu Jeon, Jaewoo Jung, René Zurbrügg, Honggyu An, Tifanny Portela, Marco Hutter, Marc Pollefeys, Seungryong Kim, <b><u>Sunghwan Hong&dagger;</u></b>"
     venue: "Arxiv 2026"
-    paper_pdf: "https://arxiv.org/abs/2606.05102"
+    paper_pdf: "https://arxiv.org/pdf/2606.17046"
     code: "https://cvlab-kaist.github.io/Geometric-Action-Model/"
     selected: y
 
