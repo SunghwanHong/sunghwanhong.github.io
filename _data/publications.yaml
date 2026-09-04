@@ -1,6 +1,22 @@
 papers:
-  - title: "Entropy-Gradient Grounding: Training-Free Evidence Retrieval in Vision-Language Models"
+  - title: "PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models"
     year: "2026"
+    image: "/assets/publications/thumbs/prose.jpg"
+    authors: "Zhiang Chen*, Nahyuk Lee*, Boyang Sun, Taein Kwon, Marc Pollefeys, Zuria Bauer, <b><u>Sunghwan Hong&dagger;</u></b>"
+    venue: "CoRL 2026"
+    paper_pdf: "https://arxiv.org/abs/2606.16569"
+    code: "https://rckola.github.io/prose/"
+    selected: y
+    
+  - title: "LIME: Learning Intent-aware Camera Motion from Egocentric Video"
+    image: "/assets/publications/thumbs/lime.jpg"
+    authors: "Boyang Sun, Jiajie Li, Yung-Hsu Yang, Chenyangguang Zhang, Tim Engelbracht, <b><u>Sunghwan Hong</u></b>, Cesar Cadena, Marc Pollefeys, Hermann Blum"
+    venue: "CoRL 2026"
+    paper_pdf: "https://arxiv.org/pdf/2607.02417"
+    code: "https://boysun045.github.io/LIME-Page/"
+    selected: y
+
+  - title: "Entropy-Gradient Grounding: Training-Free Evidence Retrieval in Vision-Language Models"
     image: "/assets/publications/thumbs/egg.jpg"
     authors: "Marcel Gröpl*, Jaewoo Jung*, Seungryong Kim, Marc Pollefeys, <b><u>Sunghwan Hong&dagger;</u></b>"
     venue: "ECCV 2026"
@@ -80,28 +96,12 @@ papers:
     code: "https://atcelen.github.io/GenRec/"
     selected: y
   
-  - title: "LIME: Learning Intent-aware Camera Motion from Egocentric Video"
-    image: "/assets/publications/thumbs/lime.jpg"
-    authors: "Boyang Sun, Jiajie Li, Yung-Hsu Yang, Chenyangguang Zhang, Tim Engelbracht, <b><u>Sunghwan Hong</u></b>, Cesar Cadena, Marc Pollefeys, Hermann Blum"
-    venue: "Arxiv 2026"
-    paper_pdf: "https://arxiv.org/pdf/2607.02417"
-    code: "https://boysun045.github.io/LIME-Page/"
-    selected: y
-  
   - title: "Geometric Action Model for Robot Policy Learning"
     image: "/assets/publications/thumbs/gam.jpg"
     authors: "Jisang Han, Seonghu Jeon, Jaewoo Jung, René Zurbrügg, Honggyu An, Tifanny Portela, Marco Hutter, Marc Pollefeys, Seungryong Kim, <b><u>Sunghwan Hong&dagger;</u></b>"
     venue: "Arxiv 2026"
     paper_pdf: "https://arxiv.org/pdf/2606.17046"
     code: "https://cvlab-kaist.github.io/Geometric-Action-Model/"
-    selected: y
-
-  - title: "PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models"
-    image: "/assets/publications/thumbs/prose.jpg"
-    authors: "Zhiang Chen, Nahyuk Lee, Boyang Sun, Taein Kwon, Marc Pollefeys, Zuria Bauer, <b><u>Sunghwan Hong&dagger;</u></b>"
-    venue: "Arxiv 2026"
-    paper_pdf: "https://arxiv.org/abs/2606.16569"
-    code: "https://rckola.github.io/prose/"
     selected: y
   
   - title: "ZipSplat: Fewer Gaussians, Better Splats"
