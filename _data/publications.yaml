@@ -1,6 +1,28 @@
 papers:
-  - title: "PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models"
+  - title: "No Pose, No Problem in 4D: Feed-Forward Dynamic Gaussians from Unposed Multi-View Videos"
     year: "2026"
+    image: "/assets/publications/thumbs/nopo4d.jpg"
+    authors: "Matteo Balice, Yanik Künzi, Chenyangguang Zhang, Matteo Matteucci, Marc Pollefeys, <b><u>Sunghwan Hong&dagger;</u></b>"
+    venue: "NeurIPS 2026"
+    paper_pdf: "https://arxiv.org/abs/2605.22190"
+    code: "https://bralani.github.io/nopo4d_html/"
+    selected: y
+    
+  - title: "GenRec: Knowing Where to Reconstruct and Where to Generate"
+    image: "/assets/publications/thumbs/genrec.jpg"
+    authors: "Ata Çelen, Jaewoo Jung, Federico Tombari, Marc Pollefeys, <b><u>Sunghwan Hong</u></b>, Michael Niemeyer, Daniel Barath"
+    venue: "NeurIPS 2026"
+    paper_pdf: "https://arxiv.org/pdf/2608.17832"
+    code: "https://atcelen.github.io/GenRec/"
+    selected: y
+
+  - title: "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering"
+    image: "/assets/publications/thumbs/imagine.jpg"
+    authors: "Jaewoo Jung, Hyeonseo Yu, Honggyu An, Jisang Han, Mungyeom Kim, Minkyeong Jeon, Heeseong Shin, WonJun Moon, Federico Tombari, Daniel Barath, Marc Pollefeys, Seungryong Kim, <b><u>Sunghwan Hong&dagger;</u></b>"
+    venue: "NeurIPS 2026"
+    selected: y
+    
+  - title: "PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models"
     image: "/assets/publications/thumbs/prose.jpg"
     authors: "Zhiang Chen*, Nahyuk Lee*, Boyang Sun, Taein Kwon, Marc Pollefeys, Zuria Bauer, <b><u>Sunghwan Hong&dagger;</u></b>"
     venue: "CoRL 2026"
@@ -87,14 +109,6 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2606.17046"
     code: "https://arxiv.org/abs/2606.17046"
     selected: y
-
-  - title: "GenRec: Knowing Where to Reconstruct and Where to Generate"
-    image: "/assets/publications/thumbs/genrec.jpg"
-    authors: "Ata Çelen, Jaewoo Jung, Federico Tombari, Marc Pollefeys, <b><u>Sunghwan Hong</u></b>, Michael Niemeyer, Daniel Barath"
-    venue: "Arxiv 2026"
-    paper_pdf: "https://arxiv.org/pdf/2608.17832"
-    code: "https://atcelen.github.io/GenRec/"
-    selected: y
   
   - title: "Geometric Action Model for Robot Policy Learning"
     image: "/assets/publications/thumbs/gam.jpg"
@@ -118,14 +132,6 @@ papers:
     venue: "Arxiv 2026"
     paper_pdf: "https://arxiv.org/pdf/2605.31595"
     code: "https://cvlab-kaist.github.io/C4G/"
-    selected: y
-  
-  - title: "No Pose, No Problem in 4D: Feed-Forward Dynamic Gaussians from Unposed Multi-View Videos"
-    image: "/assets/publications/thumbs/nopo4d.jpg"
-    authors: "Matteo Balice, Yanik Künzi, Chenyangguang Zhang, Matteo Matteucci, Marc Pollefeys, <b><u>Sunghwan Hong&dagger;</u></b>"
-    venue: "Arxiv 2026"
-    paper_pdf: "https://arxiv.org/abs/2605.22190"
-    code: "https://bralani.github.io/nopo4d_html/"
     selected: y
 
   - title: "VIRAL: Visual Representation Alignment for Multimodal Large Language Models"
