@@ -20,6 +20,8 @@ papers:
     image: "/assets/publications/thumbs/imagine.jpg"
     authors: "Jaewoo Jung, Hyeonseo Yu, Honggyu An, Jisang Han, Mungyeom Kim, Minkyeong Jeon, Heeseong Shin, WonJun Moon, Federico Tombari, Daniel Barath, Marc Pollefeys, Seungryong Kim, <b><u>Sunghwan Hong&dagger;</u></b>"
     venue: "NeurIPS 2026"
+    paper_pdf: "https://arxiv.org/abs/2609.38177"
+    code: "https://cvlab-kaist.github.io/Imagine3D-LLM/"
     selected: y
     
   - title: "PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models"
