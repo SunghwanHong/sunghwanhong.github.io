@@ -111,6 +111,13 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2606.17046"
     code: "https://arxiv.org/abs/2606.17046"
     selected: y
+
+  - title: "ChronoGraph: Functional 4D Scene Graphs with Vision-Language Models for Interaction Understanding and Grounded Planning"
+    image: "/assets/publications/thumbs/chrono.jpg"
+    authors: "Chenyangguang Zhang, Malgorzata Gwiazda, Guanlong Jiao, Yuanchen Ju, Federico Tombari, Koushil Sreenath, Marc Pollefeys, <b><u>Sunghwan Hong&dagger;</u></b>"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/abs/2609.39665"
+    selected: y
   
   - title: "Geometric Action Model for Robot Policy Learning"
     image: "/assets/publications/thumbs/gam.jpg"
