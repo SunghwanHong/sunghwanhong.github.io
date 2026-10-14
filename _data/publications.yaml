@@ -112,6 +112,14 @@ papers:
     code: "https://arxiv.org/abs/2606.17046"
     selected: y
 
+  - title: "GeoFix: Geometry Fixing for 4D Consistent Generation"
+    image: "/assets/publications/thumbs/geofix.jpg"
+    authors: "Yeobin Hong, Hyojun Go, Dohun Lee, Jeongjae Lee, <b><u>Sunghwan Hong</u></b>, Federico Tombari, Zhaochong An, Jong Chul Ye, Konrad Schindler, Dominik Narnhofer"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/pdf/2610.14293"
+    code: "https://yeobinhong.github.io/GeoFix/"
+    selected: y
+
   - title: "DeskForge: Dense Supervision from Desktop Environments for Computer‑Use Agents"
     image: "/assets/publications/thumbs/deskforge.jpg"
     authors: "A. Said Gurbuz, Ahmed Nassar, <b><u>Sunghwan Hong</u></b>, Marc Pollefeys, Peter W. J. Staar"
