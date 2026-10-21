@@ -112,6 +112,14 @@ papers:
     code: "https://arxiv.org/abs/2606.17046"
     selected: y
 
+  - title: "Learning the 4D World through Point Trajectory Forecasting"
+    image: "/assets/publications/thumbs/vpm.jpg"
+    authors: "Byungwoo Jeon*, <b><u>Sunghwan Hong*</u></b>, Dohyeon Kim, Jonghoon Lee, Jungwoo Park, Inhee Lee, Doosan Baek, Jinil Kim, Taehyun Lim, Hanbyul Joo, Marc Pollefeys, Saining Xie, Jinwoo Shin"
+    venue: "Arxiv 2026"
+    paper_pdf: "https://arxiv.org/abs/2610.28594"
+    code: "https://rootyjeon.github.io/video-point-model/"
+    selected: y
+  
   - title: "GeoFix: Geometry Fixing for 4D Consistent Generation"
     image: "/assets/publications/thumbs/geofix.jpg"
     authors: "Yeobin Hong, Hyojun Go, Dohun Lee, Jeongjae Lee, <b><u>Sunghwan Hong</u></b>, Federico Tombari, Zhaochong An, Jong Chul Ye, Konrad Schindler, Dominik Narnhofer"
